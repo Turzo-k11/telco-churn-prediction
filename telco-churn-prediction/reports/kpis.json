@@ -1,8 +1,0 @@
-{
-  "customers": 7043,
-  "churn_rate": 0.2654,
-  "monthly_revenue": 456116.6,
-  "avg_monthly_charge": 64.76,
-  "monthly_revenue_from_churned": 139130.85,
-  "share_of_revenue_from_churned": 0.305
-}
